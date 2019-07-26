@@ -21,7 +21,7 @@ Usage of ./mcmeh:
 
 ### Examples
 ```
-./mcmeh -type="message" -repo="/Users/default/Desktop/go-git" -word="fuck"
+./mcmeh -type="message" -repo="/Users/bgammill/Desktop/go-git" -word="fuck"
 
 merkletrie: fix const action type fuck up (#268)
 
